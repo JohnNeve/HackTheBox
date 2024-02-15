@@ -1,2 +1,3 @@
 # HackTheBox
-HackTheBox
+
+HackTheBox Challenges notes
