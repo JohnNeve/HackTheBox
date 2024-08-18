@@ -1,1 +1,0 @@
-{{ .FetchServerInfo "find type -f -name 'flag.txt'" }}
